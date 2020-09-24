@@ -55,5 +55,4 @@ public class Main {
     private static void doRestart() {
         doGuess();
     }
-
 }
